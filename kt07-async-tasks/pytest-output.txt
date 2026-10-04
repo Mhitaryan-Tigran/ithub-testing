@@ -1,0 +1,6 @@
+test_tasks.py::test_future_resolves PASSED                               [ 20%]
+test_tasks.py::test_future_rejects PASSED                                [ 40%]
+test_tasks.py::test_http_request PASSED                                  [ 60%]
+test_tasks.py::test_database_insert PASSED                               [ 80%]
+test_tasks.py::test_run_in_separate_thread PASSED                        [100%]
+============================== 5 passed in 0.41s ===============================

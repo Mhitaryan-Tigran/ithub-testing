@@ -1,0 +1,10 @@
+test_store.py::test_inventory PASSED                                     [ 11%]
+test_store.py::test_place_order PASSED                                   [ 22%]
+test_store.py::test_get_order PASSED                                     [ 33%]
+test_store.py::test_delete_order PASSED                                  [ 44%]
+test_user.py::test_create_user PASSED                                    [ 55%]
+test_user.py::test_get_user PASSED                                       [ 66%]
+test_user.py::test_update_user PASSED                                    [ 77%]
+test_user.py::test_delete_user PASSED                                    [ 88%]
+test_user.py::test_update_with_zero_id_does_not_change_user PASSED       [100%]
+============================== 9 passed in 4.34s ===============================

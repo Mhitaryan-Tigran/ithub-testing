@@ -1,0 +1,69 @@
+{
+  "squadName": "Super hero squad",
+  "homeTown": "Metro City",
+  "formed": 2016,
+  "secretBase": "Super tower",
+  "active": true,
+  "members": [
+    {
+      "name": "Byte Knight",
+      "age": 19,
+      "secretIdentity": "Tigran Mkhitaryan",
+      "powers": [
+        "Debugging at light speed",
+        "Infinite coffee",
+        "Git rebase"
+      ]
+    },
+    {
+      "name": "Null Pointer",
+      "age": 25,
+      "secretIdentity": "Unknown",
+      "powers": [
+        "Vanishing",
+        "Crashing systems"
+      ]
+    },
+    {
+      "name": "Molecule Man",
+      "age": 29,
+      "secretIdentity": "Dan Jukes",
+      "powers": [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "name": "Captain Cache",
+      "age": 34,
+      "secretIdentity": "Anna Petrova",
+      "powers": [
+        "Instant recall",
+        "Memory compression"
+      ]
+    },
+    {
+      "name": "Madame Uppercut",
+      "age": 39,
+      "secretIdentity": "Jane Wilson",
+      "powers": [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    },
+    {
+      "name": "Eternal Flame",
+      "age": 1000000,
+      "secretIdentity": "Unknown",
+      "powers": [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+test_profile.py::test_register PASSED                                    [  5%]
+test_profile.py::test_register_duplicate PASSED                          [ 11%]
+test_profile.py::test_register_validation[email-not-an-email] PASSED     [ 16%]
+test_profile.py::test_register_validation[password-short] PASSED         [ 22%]
+test_profile.py::test_register_validation[username-a b] PASSED           [ 27%]
+test_profile.py::test_register_validation[name-] PASSED                  [ 33%]
+test_profile.py::test_login PASSED                                       [ 38%]
+test_profile.py::test_login_wrong_password PASSED                        [ 44%]
+test_profile.py::test_login_case_insensitive_username PASSED             [ 50%]
+test_profile.py::test_get_profile PASSED                                 [ 55%]
+test_profile.py::test_profile_requires_token[headers0] PASSED            [ 61%]
+test_profile.py::test_profile_requires_token[headers1] PASSED            [ 66%]
+test_profile.py::test_profile_requires_token[headers2] PASSED            [ 72%]
+test_profile.py::test_update_profile PASSED                              [ 77%]
+test_profile.py::test_update_profile_partial PASSED                      [ 83%]
+test_profile.py::test_update_profile_rejects_bad_email PASSED            [ 88%]
+test_profile.py::test_password_not_exposed PASSED                        [ 94%]
+test_profile.py::test_logout_revokes_token PASSED                        [100%]
+main.py      55      0   100%
+TOTAL        55      0   100%
+============================== 18 passed in 0.71s ==============================

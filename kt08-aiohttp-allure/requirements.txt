@@ -1,0 +1,6 @@
+aiohttp>=3.9
+pytest<8.2
+pytest-aiohttp>=1.0
+pytest-asyncio==0.21.2
+pytest-cov>=5
+allure-pytest>=2.13

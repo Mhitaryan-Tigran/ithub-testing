@@ -1,0 +1,10 @@
+test_app.py::test_get_post PASSED                                        [ 16%]
+test_app.py::test_get_dog_breeds PASSED                                  [ 33%]
+test_app.py::test_get_users_local PASSED                                 [ 50%]
+test_app.py::test_plain_content_type PASSED                              [ 66%]
+test_app.py::test_server_error PASSED                                    [ 83%]
+test_app.py::test_external_session PASSED                                [100%]
+Name     Stmts   Miss  Cover   Missing
+app.py      10      0   100%
+TOTAL       10      0   100%
+============================== 6 passed in 1.07s ===============================

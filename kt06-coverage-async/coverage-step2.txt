@@ -1,0 +1,12 @@
+...........                                                              [100%]
+================================ tests coverage ================================
+______________ coverage: platform darwin, python 3.12.14-final-0 _______________
+
+Name                     Stmts   Miss  Cover   Missing
+------------------------------------------------------
+src/dogapi/__init__.py       0      0   100%
+src/dogapi/client.py        35      0   100%
+------------------------------------------------------
+TOTAL                       35      0   100%
+Coverage HTML written to dir htmlcov
+11 passed in 2.44s
